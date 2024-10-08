@@ -22,6 +22,14 @@ body{
     color: #ef5350;
 }
 
+.main input[type="text"]{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
 .pokemon-boxes{
     display: flex;
     flex-wrap: wrap;
